@@ -13,6 +13,13 @@
     "woff",
     "woff2"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deart1mer/svgicon2webfont"
+  },
+  "bugs": {
+    "url": "https://github.com/deart1mer/svgicon2webfont/issues"
+  },
   "author": "t1mer <lizhaoming.china@outlook.com>",
   "license": "MIT",
   "dependencies": {
